@@ -16,10 +16,10 @@ Technical Communication professional with 14+ years of experience spanning softw
 - [Troubleshooting Guide](technical-writing/troubleshooting-guide.md)
 
 ### 🔌 API Documentation
-- [Getting Started](api-documentation/getting-started.mdanagement
+- [Getting Started](api-documentation/getting-started.mdanagement)
 - [Knowledge Base Structure](knowledge-management/knowledge-base-structure.md)
-- [Taxonomy Design](knowledge-management Contribution Guide
-- docs-as-code/publishing-workflow.md
+- [Taxonomy Design](taxonomy-design.md)
+- [Docs As Code](docs-as-code/publishing-workflow.md)
 - [Style Guide](docs-as-code/style-guide.md)
 
 ### 🤖 AI-Assisted Documentation
