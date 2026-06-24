@@ -2,7 +2,7 @@
 
 | **Senior Technical Writer** | **AI-Assisted Documentation** | **Knowledge Management** | **Information Architecture** | **Documentation Strategy** |
  
-🔗 [LinkedIn: https://www.linkedin.com/in/dhara-gohil-5630a254](https://www.linkedin.com/in/dhara-gohil-5630a254)
+🔗 **LinkedIn**: [https://www.linkedin.com/in/dhara-gohil-5630a254](https://www.linkedin.com/in/dhara-gohil-5630a254)
 
 ---
 
@@ -158,4 +158,4 @@ I am currently open to opportunities in:
 - Documentation Strategy
 - AI-Assisted Documentation
 
-🔗 [LinkedIn: https://www.linkedin.com/in/dhara-gohil-5630a254](https://www.linkedin.com/in/dhara-gohil-5630a254)
+🔗 **LinkedIn**: [https://www.linkedin.com/in/dhara-gohil-5630a254](https://www.linkedin.com/in/dhara-gohil-5630a254)
