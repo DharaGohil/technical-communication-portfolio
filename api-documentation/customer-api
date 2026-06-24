@@ -1,0 +1,18 @@
+# Create Customer API
+
+POST /api/v1/customers
+
+## Request
+
+{
+  "name": "John Smith",
+  "email": "john@example.com"
+}
+
+## Response
+
+201 Created
+
+{
+  "customerId": 1001
+}
