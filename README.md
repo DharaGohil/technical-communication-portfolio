@@ -1,35 +1,69 @@
 # Dhara Gohil
 
-Senior Technical Writer | Knowledge Management Professional | AI-Assisted Documentation
-
-## About Me
-
-Technical Communication professional with 14+ years of experience spanning software development, knowledge management, and technical documentation.
+Senior Technical Writer | AI-Assisted Documentation | Knowledge Management | Information Architecture | Documentation Strategy
 
 ---
 
-## Portfolio Sections
+## Professional Summary
 
-### 📘 Technical Writing
-- [User Guide Sample](technical-writing/user-guide.md)
-- [Installation Guide](technical-writing/installation-guide.md)
-- [Troubleshooting Guide](technical-writing/troubleshooting-guide.md)
+Technical Communication professional with 14+ years of experience spanning software development, enterprise support, knowledge management, and technical documentation.
 
-### 🔌 API Documentation
-- [Getting Started](api-documentation/getting-started.mdanagement)
-- [Knowledge Base Structure](knowledge-management/knowledge-base-structure.md)
-- [Taxonomy Design](taxonomy-design.md)
-- [Docs As Code](docs-as-code/publishing-workflow.md)
-- [Style Guide](docs-as-code/style-guide.md)
+An experienced software developer turned technical writer with 9+ years of expertise in API documentation, knowledge management, information architecture, documentation modernization, and AI-assisted documentation practices.
 
-### 🤖 AI-Assisted Documentation
-- [AI Documentation Workflow](ai-assisted-documentation/ai-workflow.md)
-- [Prompt Library](ai-assisted-documentation/prompt-library.md)
-- [Review Process](ai-assisted-documentation/review-process.md)
+---
 
-### 📚 Case Studies
-- [Documentation Modernization](case-studies/documentation-modernization.md)
-- [DITA Migration Strategy](case-studies/dita-migration.md)
+# Portfolio Sections
 
-### 📄 Resume
-- [View Resume](resume/Dhara_Gohil_Resume.pdf)
+## 📘 Technical Writing
+
+User guides, installation guides, release documentation, and troubleshooting content.
+
+➡️ [View Technical Writing Samples](technical-writing/README.md)
+
+---
+
+## 🔌 API Documentation
+
+Developer-focused API documentation and reference material.
+
+➡️ [View API Documentation Samples](api-documentation/README.md)
+
+---
+
+## 🧠 Knowledge Management
+
+Taxonomy design, governance models, knowledge architecture, and content organization.
+
+➡️ [View Knowledge Management Portfolio](knowledge-management/README.md)
+
+---
+
+## ⚙️ Documentation Strategy & Docs-as-Code
+
+Documentation modernization, structured authoring, publishing workflows, and Docs-as-Code practices.
+
+➡️ [View Docs-as-Code Portfolio](docs-as-code/README.md)
+
+---
+
+## 🤖 AI-Assisted Documentation
+
+AI review workflows, prompt engineering, content validation, and responsible AI usage in documentation.
+
+➡️ [View AI-Assisted Documentation Portfolio](ai-assisted-documentation/README.md)
+
+---
+
+## 📚 Case Studies
+
+Documentation transformation initiatives and migration approaches.
+
+➡️ [View Case Studies](case-studies/README.md)
+
+
+---
+
+## Contact
+
+LinkedIn:
+www.linkedin.com/in/dhara-gohil-5630a254
