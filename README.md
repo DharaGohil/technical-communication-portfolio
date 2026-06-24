@@ -1,6 +1,6 @@
 # Dhara Gohil
 
-**| Senior Technical Writer | AI-Assisted Documentation | Knowledge Management | Information Architecture | Documentation Strategy |**
+| **Senior Technical Writer | AI-Assisted Documentation | Knowledge Management | Information Architecture | Documentation Strategy** |
  
 🔗 LinkedIn: https://www.linkedin.com/in/dhara-gohil-5630a254  
 
