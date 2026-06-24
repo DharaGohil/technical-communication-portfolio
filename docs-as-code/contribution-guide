@@ -1,0 +1,14 @@
+# Docs-as-Code Workflow
+
+## Branches
+
+- main
+- release
+- feature
+
+## Review Process
+
+1. Content review
+2. SME review
+3. Technical review
+4. Publication
